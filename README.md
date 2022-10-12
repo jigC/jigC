@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on design patterns, functional programming, clouds ... I love it all and am eager to learn it all
 
-- 📫 How to reach me ...drop me a message !! @jigyasadsharma@gmail.com 
+Connect to me on [Linked In](www.linkedin.com/in/jigyasa-sharma-79115021)
 
 <!---
 jigC/jigC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
